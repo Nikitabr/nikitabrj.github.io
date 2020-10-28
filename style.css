@@ -1,0 +1,50 @@
+div{ text-align:justify;
+padding:20px
+}
+
+h1 { text-align: center;
+font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+font-size: 250%
+}
+.prob {
+    width:450px;
+    height:1000px; 
+    float: left
+}
+.pea{
+    width:1000px;
+    height:2350px;
+    background-color:rgba(255,255,255,0.7);
+    margin:200px auto
+}
+.zero{
+    width:450px;
+    height:1000px;
+    float:left
+}
+.ps {
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-size: 2em;
+	color: green;
+	text-align: center;
+}
+.psp {
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-size: 1.5em;
+	padding-left: 10px;
+	color: orange;
+}
+.psp2 {
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-size: 1.2em;
+	padding-left: 13px;
+	color: orange;
+	float:left; width: 47%;
+}
+.psp3 {
+	float:right; width: 49%;
+	padding-right: 20px
+}
+.psp4 {
+	padding-left: 20px;
+}
